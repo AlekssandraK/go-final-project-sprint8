@@ -1,4 +1,4 @@
-module github.com/Yandex-Practicum/go-db-sql-query-test
+module github.com/Yandex-Practicum/go-db-sql-final
 
 go 1.21
 
